@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "purescript-myexponent": "chexxor/purescript-myexponent#v0.1"
+    "purescript-myexponent": "chexxor/purescript-myexponent#v0.2"
   }
 }
