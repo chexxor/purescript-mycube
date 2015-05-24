@@ -1,0 +1,19 @@
+{
+  "name": "purescript-mycube",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chexxor/purescript-mycube",
+  "authors": [
+    "Alex Berg <chexxor@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-myexponent": "chexxor/purescript-myexponent#v0.1"
+  }
+}
